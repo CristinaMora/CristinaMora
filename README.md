@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python,Java. Desarrollo en móviles y consolas. Inicio en testing**
 
-- 📫 mi correo  **cristinamv10@gmail.com**
+- 📫 mi correo  **moravelascocristina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
