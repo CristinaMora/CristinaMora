@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently studying at **Complutense University of Madrid** (Degree in Video Game Development)
 
-- 🌱 I'm currently learning **Cybersecurity and Machine Learning**
+- 🌱 I'm currently learning **Cybersecurity and Usability and game analysis**
 
 - 📫 You can reach me at **moravelascocristina@gmail.com**
   
