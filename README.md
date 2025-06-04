@@ -1,12 +1,12 @@
-<h1 align="center">Hola 👋,me llamo Cristina Mora Velasco</h1>
-<h3 align="center">Soy una desarrolladora de videojuegos de Madrid</h3>
+<h1 align="center">Hi 👋, my name is Cristina Mora Velasco</h1>
+<h3 align="center">I'm a video game developer from Madrid</h3>
 
-- 🔭 Actualmente estoy estudiando [Universidad Complutense de Madrid](Grado de videojuegos)
+- 🔭 I'm currently studying at **Complutense University of Madrid** (Degree in Video Game Development)
 
-- 🌱 Actualmente estoy aprendiendo **Python,Java. Desarrollo en móviles y consolas. Inicio en testing**
+- 🌱 I'm currently learning **Cybersecurity and Machine Learning**
 
-- 📫 mi correo  **moravelascocristina@gmail.com**
-
+- 📫 You can reach me at **moravelascocristina@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristina-mora-velasco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristina-mora-velasco/" height="30" width="40" /></a>
